@@ -12,6 +12,7 @@ class Engine:
 
     # Thrust
     # Aray of thrust at time
+    # a new comment
 
     def thrust_time(self, eng_file):
         with open(eng_file, 'r') as f:
